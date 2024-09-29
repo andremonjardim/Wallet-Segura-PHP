@@ -4,7 +4,7 @@ No formulário você tem a opção de criar um novo arquivo com as palavras-chav
 
 O arquivo é protegido por senha que fica dentro do próprio arquivo criado. O projeto é simples, mas me atende perfeitamente, já que guardar 12 ou 24 palavras de cabeça não é o meu forte e deixar elas expostas no PC ou em qualquer outro lugar eu não confio.
 
-Guardar o arquivo num lugar seguro e caso eu perca a carteira, poderá recuperá-la com as palavras-chave que estão no arquivo.
+É só guardar esse projeto num lugar seguro e caso perca a carteira, poderá recuperá-la com as palavras-chave que estão nesse projeto.
 
 Como funciona?
 No formulário vc digita o nome da carteira, uma senha forte e digita suas palavras-chave. O sistema criptografa a senha dentro do próprio arquivo e ainda zipa o arquivo com a mesma senha dentro da pasta card. Para mostrar na tela o conteúdo do arquivo, o trabalho do sistema é inverso.
