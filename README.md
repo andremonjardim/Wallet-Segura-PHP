@@ -9,9 +9,9 @@ Guardar o arquivo num lugar seguro e caso eu perca a carteira, poderá recuperá
 Como funciona?
 No formulário vc digita o nome da carteira, uma senha forte e digita suas palavras-chave. O sistema criptografa a senha dentro do próprio arquivo e ainda zipa o arquivo com a mesma senha dentro da pasta card. Para mostrar na tela o conteúdo do arquivo, o trabalho do sistema é inverso.
 
-No formulário você digita o nome da carteira e a senha que você criou. O sistema busca pelo nome do arquivo e acessa o conteúdo buscando a senha digitalizada. Se a senha para a mesma ele mostra as palavras-chave na tela.
+No formulário você digita o nome da carteira e a senha que você criou. O sistema busca pelo nome do arquivo e acessa o conteúdo buscando a senha criptografada. Se a senha for a mesma, ele mostra as palavras-chave na tela.
 
-Logicamente que não serve apenas para guardar palavras-chave, mas pode guardar qualquer texto que desejar.
+Logicamente que não serve apenas para guardar palavras-chave, mas pode guardar qualquer texto que desejar, sem limites de caracteres.
 
 Só falta agora implementar com a verificação biométrica que será feito com javascript e trocar os nomes das strings por códigos para mascarar a verdadeira intenção do sistema.
 
