@@ -1,3 +1,5 @@
+Solução pra quem tem dificuldade para guardar palavras-chave de Wallets.
+
 No formulário você tem a opção de criar uma nova carteira com as palavras-chave da sua carteira com a sua própria senha. Arquivo simples para ajudar a salvar as palavras-chave da Wallet.
 
 O arquivo é protegido por senha que fica dentro do próprio arquivo criado. O projeto é simples, mas me atende perfeitamente, já que guardar 12 ou 24 palavras de cabeça não é o meu forte e deixar elas expostas no PC ou em qualquer outro lugar eu não confio.
